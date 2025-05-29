@@ -1,6 +1,6 @@
 # Hi, I'm Yakup 👋
 
-Former psychotherapist → now full-stack developer building thoughtful tech at the crossroads of AI, psychology, and mobile development.  
+Former psychotherapist → now full-stack IOS developer building thoughtful apps at the crossroads of AI, psychology, and mobile development.  
 I design and code tools that care — or at least try not to gaslight you.
 
 ### 🛠 What I Do
