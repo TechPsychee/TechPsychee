@@ -22,7 +22,7 @@ Based in Istanbul. Skates through life. Thinks deeply. Codes cleanly (on good da
 
 ### ☎️ Let’s Connect
 - [Website](https://psyche.solutions)
-- [LinkedIn](https://www.linkedin.com/in/yakup-ishik)
+- [LinkedIn](https://www.linkedin.com/in/yakup-isikk)
 - [Email](mailto:yakob.isik0@gmail.com)
 
 ---
