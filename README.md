@@ -42,6 +42,4 @@ Markdown, Git, Pandoc, LaTeX · Linux/Bash · digital archiving
 
 ### Connect
 
-[psyche.solutions](https://psyche.solutions) · [email](mailto:yakob@psyche.solutions)
-
 "The ordinary response to atrocities is to banish them from consciousness." Judith Herman
